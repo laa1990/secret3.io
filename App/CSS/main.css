@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+		background-color: white;
+}
+.content{
+	font-family: 'Nunito', sans-serif;
+	width: 70%;
+	margin:auto;
+}
+
+.boxx{
+	background: linear-gradient(to bottom, #00ffff 0%, #99ff99 100%);
+	padding: 5%;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	box-shadow: 0 0 15px 1px rgba(0,0,0,0.1);
+}
+p{
+	font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
