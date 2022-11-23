@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: white;
+}
+.content{
+	font-family: 'Nunito', sans-serif;
+	width: 70%;
+	margin:auto;
+}
+
+.boxx{
+	background: linear-gradient(to bottom, #ff0066 0%, #9966ff 100%);
+	padding: 5%;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	box-shadow: 0 0 15px 1px rgba(0,0,0,0.1);
+}
+p{
+	font-family: 'Nunito', sans-serif;
+}
+.imgg{
+			text-align: center;
+			margin-bottom: 5px;
+			margin-top: 20px;
+			size: 10%;
+}
+img{
+	width: 70%;
+	transition: transform 0.25s;
+
+
+
+
+
+
+
+
+
+
